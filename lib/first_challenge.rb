@@ -1,6 +1,7 @@
 def first_challenge
+  
   epic_tragedy => {
-    :montagues => {
+    :montague => {
     :patriarch => {
       :name => "Lord Montague",
       :age => "53"
@@ -10,7 +11,7 @@ def first_challenge
       :age => "54"
  },
     :hero => {
-      :name = > "Romeo",
+      :name => "Romeo",
       :age => "15",
       :status => "alive"
  },
