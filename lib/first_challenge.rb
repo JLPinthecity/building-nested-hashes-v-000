@@ -16,7 +16,7 @@ def first_challenge
       :status => "alive"
  },
 
-    :hero_friends = [
+    :hero_friends => [
         {
           :name => "Benvolio",
           :age => "17",
