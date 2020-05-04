@@ -32,36 +32,6 @@ def second_challenge
 
 
 
-         :capulet => {
-            :patriarch => {
-              :name => "Lord Capulet",
-              :age => "50"
-        },
-         :matriarch => {
-           :name => "Lady Capulet",
-           :age => "52"
-         },
-         :heroine => {
-           :name => "Juliet",
-           :age => "15",
-           :status => "alive"
-         },
-         :heroine_friends => [
-          {
-           :name => "Steven",
-           :age => "30",
-           :attitude => "confused"
-          },
-          {
-            :name => "nurse",
-            :age => "44",
-            :attitude => "worried"
-          }
-        ]
-      }
-    }
-
-
 
     end
 
